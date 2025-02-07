@@ -26,7 +26,11 @@ Bu repomda bir çox fərqli mövzuya müraciət edən müxtəlif proyektlər mö
 
   JSON Server ilə işləmək üçün bir **`db.json`** faylına ehtiyacınız olacaq. Bu faylda, serverdə, fake datalar , test dataları saxlanacaq.( zatən api folderinə əlavə edilib, sadəcə incləməyiniz məsləhətdir).
 
+<<<<<<< HEAD
   Bu əmrlər icra olunduqdan sonra isə proyektə lazım olan node modulları yüklənməlidir.
+=======
+        Sonra isə JSON serveri işə salmaq üçün aşağıdakı əmri icra edin:
+>>>>>>> main
 
   ```bash
       npm install
@@ -56,7 +60,12 @@ Bu repomda bir çox fərqli mövzuya müraciət edən müxtəlif proyektlər mö
 
 ### PROYEKTLƏR HAQQINDA MƏLUMAT:
 
+<<<<<<< HEAD
 - ### - filename: `Courses and Card`
+=======
+- ###  - filename: `Courses and Card`
+
+>>>>>>> main
 
 ---
 
